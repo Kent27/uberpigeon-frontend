@@ -22,7 +22,7 @@ cd uberpigeon-frontend
 
 ```bash
 npm install
-cd .env.example .env
+cp .env.example .env
 npm start
 ```
 
